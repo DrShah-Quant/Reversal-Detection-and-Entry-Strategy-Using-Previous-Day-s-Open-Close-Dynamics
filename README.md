@@ -1,0 +1,1 @@
+# Reversal-Detection-and-Entry-Strategy-Using-Previous-Day-s-Open-Close-Dynamics
